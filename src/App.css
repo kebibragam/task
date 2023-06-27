@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.table-input {
+  width: 100%;
+  box-sizing: border-box;
+}
+.button-icon {
+  background: transparent;
+  border-color: transparent;
+}
